@@ -14,7 +14,7 @@ I am Gianfranco De Paula, a passionate software developer interested in the worl
 ![Django](https://img.shields.io/badge/-Django-%23F7DF1C?style=flat-square&logo=django&logoColor=fff&labelColor=%fff&color=52b788)
 ![MySQL](https://img.shields.io/badge/-MySQL-%23282C34?style=flat-square&logo=mysql)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jr-giank&hide=jupyter%20notebook&show_icons=true&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jr-giank&hide=JAVA,jupyter%20notebook&show_icons=true&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🐱Git Activeness
 
